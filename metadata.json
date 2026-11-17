@@ -1,0 +1,6 @@
+{
+  "name": "SponsorGuard UK",
+  "description": "AI-powered UK Visa, Right-to-Work (RTW), and Home Office Sponsor Licence Compliance platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
